@@ -1,0 +1,9 @@
+requests>=2.31.0
+
+# Optional: Sentiment Analysis
+vaderSentiment>=3.3.2
+textblob>=0.17.1
+
+# Optional: Advanced NLP
+transformers>=4.30.0
+torch>=2.0.0

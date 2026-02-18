@@ -1,0 +1,25 @@
+# API Keys & Config
+.env
+*.env
+
+# History & Output
+ai_history.json
+sentiment_results.json
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
